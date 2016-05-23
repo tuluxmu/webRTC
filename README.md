@@ -58,7 +58,6 @@ add ClassName
 
 #adapt the size of screen
 
-
 ```
 var qvgaConstraints = {
   video: {width: {exact: 320}, height: {exact: 240}}
