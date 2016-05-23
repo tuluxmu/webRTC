@@ -55,7 +55,9 @@ add ClassName
       filter: sepia(1);
     }
     ```
+
 #adapt the size of screen
+
 
 ```
 var qvgaConstraints = {
@@ -88,10 +90,13 @@ navigator.mediaDevices.enumerateDevices()
 .catch(errorCallback);
 
 ```
+
 #getUserMedia, audio only
 
 #MediaRecorder
+
 #peerconnection
+
 
 ```
 function call() {
@@ -243,6 +248,7 @@ hang up
 #Use pranswer when setting up a peer connection
 
 # createOffer() output
+
 #Send DTMF tones
 
 # Peer connection: states
